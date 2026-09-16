@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vishal Kumar — Portfolio
 
 Static single-page portfolio. No build step, no dependencies to install.
@@ -20,3 +21,6 @@ python3 -m http.server 8000
 ## Deploy
 Drag the folder into Vercel/Netlify, or push it to a repo and enable GitHub Pages —
 no build command needed, it's plain HTML/CSS/JS.
+=======
+# Portfolio
+>>>>>>> 517562ab9db305b3bd08562fe0ea1210559fabb7
